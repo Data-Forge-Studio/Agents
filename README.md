@@ -16,14 +16,16 @@ Each file is named after its agent, for example `oracle.md`, `athena.md`, `summi
 
 ## Departments
 
-Agents are grouped into six functional departments:
+Agents are grouped into eight functional swarms, matching the platform's own internal grouping rather than an invented structure:
 
-- **Office of the CIO** -- strategy, risk oversight, and final decision-making
-- **Signals and Market Analysis** -- market reads, alerting, and data plumbing for both the crypto and equity desks
-- **Intelligence and Macro** -- geopolitics, macro regime, climate, and portfolio-level tracking
-- **Operations and Infrastructure** -- the platform's own security, backups, and build pipeline
-- **Communications and Data** -- requirements, external data feeds, and cost tracking
-- **Execution** -- paper trading and strategy validation
+- **Alpha Desk** -- crypto: market analysis, data, alerting
+- **Beta Desk** -- equities: market analysis, data, alerting, fundamentals, commodities
+- **Yankee Desk** -- a dedicated US-focused sub-desk
+- **Gamma (Review and Oversight)** -- pre and post trade review
+- **Sigma (Macro, Strategy, and Architecture)** -- the CIO's office, macro and political context, and cross-cutting strategy
+- **Delta (Operations and Infrastructure)** -- the platform's own security, backups, and build pipeline
+- **Pi (Prediction Markets)** -- a standalone swarm of one
+- **Execution** -- paper trading, currently active on the Alpha Desk only
 
 ## Related repos
 
