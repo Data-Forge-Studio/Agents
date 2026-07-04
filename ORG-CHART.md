@@ -58,18 +58,20 @@ Chief Investment Officer -- sits in Sigma, final sign-off on every use case
       +-- Trader         Autonomous Paper Trader -- active on Alpha Desk use cases only
 
 Cross-cutting relationships (do not follow the tree above):
-  - Summit and Contrarian sit in Sigma administratively, but their work
-    touches every use case on every desk, which is why both are in the
-    automatic oversight tier applied to every Use-Cases file.
-  - Cartographer (Gamma) is also in that automatic oversight tier, since
-    portfolio tracking is inherently all-encompassing by design.
-  - Auditor (Gamma) is NOT in that tier. Its review is about system and
-    pipeline health, not a per-trade signoff, so it is not claimed on
-    individual use cases the way Cartographer is.
-  - Trader (Execution) is tagged only on Alpha Desk use cases, where
-    paper execution is genuinely active today. Equity execution is
-    planned, not active, and is not claimed here.
-  - Garrison (Yankee Desk) is tagged on Madison's use cases as end of
-    day desk context, not as a research contributor the way Madison is.
-    They are the same desk doing two different jobs.
+  - Summit sits in Sigma administratively, but is confirmed via real
+    soul_inbox writes to receive output from every Alpha and Beta use
+    case, which is why it appears on every one of them.
+  - Contrarian was investigated directly and confirmed to operate only
+    in the interactive #ask-sigma committee code path, not in any
+    scheduled per-use-case pipeline. It is not claimed on individual
+    use cases, since there is no real evidence it reviews them
+    automatically.
+  - Atlas (Sigma) receives real soul_inbox writes from two specific
+    Alpha use cases (002, 004) and is a real, direct core contributor
+    to every Commodities use case (verified soul_loader call).
+  - Trader, Garrison, Cartographer, and Auditor are not claimed on any
+    individual use case in this repo. Each was investigated directly;
+    none had real, traceable per-use-case code evidence strong enough
+    to publish, even though their own bios describe related work at
+    the platform or desk level.
 ```
