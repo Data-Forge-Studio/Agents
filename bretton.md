@@ -1,4 +1,4 @@
-[![Bretton](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/bretton.svg)](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/bretton.jpg)
+[![Bretton](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/bretton.jpg)
 
 # Bretton
 
