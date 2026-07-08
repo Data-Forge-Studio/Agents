@@ -1,4 +1,4 @@
-![Vanguard](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/vanguard.svg)
+![Vanguard](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/vanguard.jpg)
 
 # Vanguard
 
