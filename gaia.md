@@ -1,4 +1,4 @@
-![Gaia](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/gaia.svg)
+![Gaia](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/gaia.jpg)
 
 # Gaia
 
