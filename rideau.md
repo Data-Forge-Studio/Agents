@@ -1,4 +1,4 @@
-![Rideau](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/rideau.svg)
+![Rideau](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/rideau.jpg)
 
 # Rideau
 
