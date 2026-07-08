@@ -1,4 +1,4 @@
-![Summit](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/summit.svg)
+![Summit](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/summit.jpg)
 
 # Summit
 
