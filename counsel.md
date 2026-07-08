@@ -1,4 +1,4 @@
-![Counsel](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/counsel.svg)
+![Counsel](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/counsel.jpg)
 
 # Counsel
 
