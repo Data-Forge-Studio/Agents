@@ -1,4 +1,4 @@
-![Prometheus](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/prometheus.svg)
+![Prometheus](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/prometheus.jpg)
 
 # Prometheus
 
