@@ -1,4 +1,4 @@
-![Wrench](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/wrench.svg)
+![Wrench](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/wrench.jpg)
 
 # Wrench
 
