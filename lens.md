@@ -1,4 +1,4 @@
-![Lens](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/lens.svg)
+![Lens](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/lens.jpg)
 
 # Lens
 
