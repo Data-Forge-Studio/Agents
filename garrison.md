@@ -1,4 +1,4 @@
-![Garrison](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/garrison.svg)
+![Garrison](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/garrison.jpg)
 
 # Garrison
 
