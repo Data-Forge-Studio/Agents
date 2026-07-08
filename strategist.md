@@ -1,4 +1,4 @@
-![Strategist](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/strategist.svg)
+![Strategist](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/strategist.jpg)
 
 # Strategist
 
