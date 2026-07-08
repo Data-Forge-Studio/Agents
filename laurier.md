@@ -1,4 +1,4 @@
-[![Laurier](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/laurier.svg)](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/laurier.svg)
+![Laurier](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/laurier.jpg)
 
 # Laurier
 
