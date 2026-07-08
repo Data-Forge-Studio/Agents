@@ -1,4 +1,4 @@
-![Cipher](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/cipher.svg)
+![Cipher](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/cipher.jpg)
 
 # Cipher
 
