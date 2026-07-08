@@ -1,5 +1,4 @@
-![Harbinger](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/harbinger.svg)
-
+![Harbinger](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/harbinger.jpg)
 # Harbinger
 
 **Consumer Stress and Recession Leading Indicator**  
