@@ -1,4 +1,4 @@
-![Vault](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/vault.svg)
+![Vault](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/vault.jpg)
 
 # Vault
 
