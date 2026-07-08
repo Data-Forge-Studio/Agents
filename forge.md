@@ -1,4 +1,4 @@
-![Forge](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/forge.svg)
+![Forge](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/forge.jpg)
 
 # Forge
 
