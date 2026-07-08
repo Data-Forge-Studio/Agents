@@ -1,4 +1,4 @@
-![Sterling](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/sterling.svg)
+![Sterling](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/sterling.jpg)
 
 # Sterling
 
