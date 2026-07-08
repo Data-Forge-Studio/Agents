@@ -1,4 +1,4 @@
-![Nixon](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/nixon.svg)
+![Nixon](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/nixon.jpg)
 
 # Nixon
 
