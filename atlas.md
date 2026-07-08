@@ -1,4 +1,4 @@
-![Atlas](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/atlas.svg)
+![Atlas](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/atlas.jpg)
 
 # Atlas
 
