@@ -1,4 +1,4 @@
-![Volta](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/volta.svg)
+![Volta](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/volta.jpg)
 
 # Volta
 
