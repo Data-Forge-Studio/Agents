@@ -1,4 +1,4 @@
-![Kronos](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/kronos.svg)
+![Kronos](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/kronos.jpg)
 
 # Kronos
 
