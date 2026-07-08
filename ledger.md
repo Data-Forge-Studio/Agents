@@ -1,4 +1,4 @@
-![Ledger](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/ledger.svg)
+![Ledger](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/ledger.jpg)
 
 # Ledger
 
