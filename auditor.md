@@ -1,4 +1,4 @@
-![Auditor](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/auditor.svg)
+![Auditor](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/auditor.jpg)
 
 # Auditor
 
