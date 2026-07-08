@@ -1,4 +1,4 @@
-![Oracle](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/oracle.svg)
+![Oracle](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/oracle.jpg)
 
 # Oracle
 
