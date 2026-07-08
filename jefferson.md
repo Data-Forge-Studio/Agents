@@ -1,4 +1,4 @@
-[![Jefferson](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/jefferson.svg)](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/jefferson.svg)
+![Jefferson](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/jefferson.jpg)
 
 # Jefferson
 
