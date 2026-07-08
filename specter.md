@@ -1,4 +1,4 @@
-![Specter](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/specter.svg)
+![Specter](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/specter.jpg)
 
 # Specter
 
