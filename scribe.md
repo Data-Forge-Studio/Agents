@@ -1,4 +1,4 @@
-![Scribe](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/scribe.svg)
+![Scribe](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/scribe.jpg)
 
 # Scribe
 
