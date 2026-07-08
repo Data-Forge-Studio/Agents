@@ -1,4 +1,4 @@
-![Beacon](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/beacon.svg)
+![Beacon](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/beacon.jpg)
 
 # Beacon
 
