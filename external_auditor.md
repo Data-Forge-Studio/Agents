@@ -1,4 +1,4 @@
-[![External Auditor](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/external_auditor.svg)](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/external_auditor.svg)
+![External Auditor](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/external_auditor.jpg)
 
 # External Auditor
 
