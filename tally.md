@@ -1,4 +1,4 @@
-![Tally](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/tally.svg)
+![Tally](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/tally.jpg)
 
 # Tally
 
