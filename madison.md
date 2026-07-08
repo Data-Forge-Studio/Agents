@@ -1,4 +1,4 @@
-![Madison](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/madison.svg)
+![Madison](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/madison.jpg)
 
 # Madison
 
