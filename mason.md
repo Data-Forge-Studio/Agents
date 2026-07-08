@@ -1,4 +1,4 @@
-![Mason](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/mason.svg)
+![Mason](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/mason.jpg)
 
 # Mason
 
