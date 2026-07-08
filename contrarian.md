@@ -1,4 +1,4 @@
-![Contrarian](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/contrarian.svg)
+![Contrarian](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/contrarian.jpg)
 
 # Contrarian
 
