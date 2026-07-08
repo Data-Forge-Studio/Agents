@@ -1,4 +1,4 @@
-![Hamilton](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/hamilton.svg)
+![Hamilton](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/hamilton.jpg)
 
 # Hamilton
 
