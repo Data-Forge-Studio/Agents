@@ -1,4 +1,4 @@
-![Athena](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/athena.svg)
+![Athena](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/athena.jpg)
 
 # Athena
 
