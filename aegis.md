@@ -1,4 +1,4 @@
-![Aegis](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/aegis.svg)
+![Aegis](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/aegis.jpg)
 
 # Aegis
 
