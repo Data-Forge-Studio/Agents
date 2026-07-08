@@ -1,4 +1,4 @@
-![Trader](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/trader.svg)
+![Trader](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/trader.jpg)
 
 # Trader
 
