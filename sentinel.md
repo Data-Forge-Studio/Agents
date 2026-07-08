@@ -1,4 +1,4 @@
-![Sentinel](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/sentinel.svg)
+![Sentinel](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/sentinel.jpg)
 
 # Sentinel
 
