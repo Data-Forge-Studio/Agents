@@ -1,4 +1,4 @@
-![Axiom](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/axiom.svg)
+![Axiom](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/axiom.jpg)
 
 # Axiom
 
