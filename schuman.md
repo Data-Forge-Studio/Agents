@@ -1,4 +1,4 @@
-[![Schuman](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/schuman.svg)](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/schuman.svg)
+![Schuman](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/schuman.jpg)
 
 # Schuman
 
