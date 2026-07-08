@@ -1,4 +1,4 @@
-![Cartographer](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/cartographer.svg)
+![Cartographer](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/cartographer.jpg)
 
 # Cartographer
 
