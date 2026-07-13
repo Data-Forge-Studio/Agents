@@ -1,4 +1,4 @@
-!(https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/bastion.png)
+![(https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/bastion.png)]
 
 # Bastion
 
