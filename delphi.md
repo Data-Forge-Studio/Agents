@@ -1,4 +1,4 @@
-[![Delphi](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/delphi.svg)](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/delphi.svg)
+![Delphi](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/delphi.png)
 
 # Delphi
 
