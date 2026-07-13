@@ -1,4 +1,4 @@
-![Hermes](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/hermes.jog)
+![Hermes](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/hermes.jpg)
 
 # Hermes
 
