@@ -1,4 +1,4 @@
-[![Arbiter](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/arbiter.svg)](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/arbiter.jpg)
+[![Arbiter](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/arbiter.svg)](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/arbiter.png)
 
 # Arbiter
 
