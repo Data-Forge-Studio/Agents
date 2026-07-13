@@ -1,4 +1,4 @@
-[![Terra](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/terra.svg)](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/terra.svg)
+[![Terra](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/terra.png)
 
 # Terra
 
