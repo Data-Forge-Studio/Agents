@@ -1,4 +1,5 @@
-# Soros — CMO
+# Soros
+## Chief Markets Officer
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/soros.png)
 

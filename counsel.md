@@ -1,4 +1,5 @@
-# Counsel — CSO — Council Chair
+# Counsel
+## Chief Strategy Officer
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/counsel.jpg)
 

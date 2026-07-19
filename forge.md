@@ -1,4 +1,5 @@
-# Forge — CTO
+# Forge
+## Chief Technology Officer
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/forge.jpg)
 

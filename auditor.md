@@ -1,4 +1,5 @@
-# Auditor — CAO — Internal Audit
+# Auditor
+## Chief Audit Officer — Internal Audit
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/auditor.jpg)
 

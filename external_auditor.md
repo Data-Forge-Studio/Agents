@@ -1,4 +1,5 @@
-# External Auditor — External CAO
+# External Auditor
+## External Chief Audit Officer
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/external_auditor.png)
 
