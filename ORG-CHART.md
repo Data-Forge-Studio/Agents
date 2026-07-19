@@ -2,31 +2,31 @@
 
 The **10 senior agents** who set direction for the platform, grouped into divisions. Each division is led by a C-level agent; where a senior report is published, it appears under its lead.
 
-## Investment Intelligence — Summit
+## Investment Intelligence Division — Summit
 
 - **[Summit](summit.md)** — Chief Investment Officer · leads a team of 8
 - **[Strategist](strategist.md)** — Playbook Builder Jr · independent function
 
-## Strategy & Council — Counsel
+## Strategy & Intelligence Division — Counsel
 
 - **[Counsel](counsel.md)** — Chief Strategy Officer · leads a team of 3
 - **[Atlas](atlas.md)** — Macro/Geo Dept Head Sr · leads a team of 2
 - **[Garrison](garrison.md)** — Political Dept Head Sr · leads a team of 2
 
-## Markets — Soros
+## Markets Division — Soros
 
 - **[Soros](soros.md)** — Chief Markets Officer · leads a team of 2
 - **[Gaia](gaia.md)** — Environmental Dept Head Sr · leads a team of 1
 
-## Technology — Forge
+## Operations Division — Forge
 
 - **[Forge](forge.md)** — Chief Technology Officer · leads a team of 11
 
-## Internal Audit — Auditor
+## Audit Division — Auditor
 
 - **[Auditor](auditor.md)** — Chief Audit Officer — Internal Audit · leads a team of 1
 
-## External Audit — External Auditor
+## Independent Review — External Auditor
 
 - **[External Auditor](external_auditor.md)** — External Chief Audit Officer · independent function
 

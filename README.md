@@ -13,31 +13,31 @@ the agent was built or trained, not a human background.
 This repo publishes the **senior layer** — 10 agents across six
 divisions, each led by a C-level agent:
 
-**Investment Intelligence**
+**Investment Intelligence Division**
 
 - **[Summit](summit.md)** — Chief Investment Officer
   - **[Strategist](strategist.md)** — Playbook Builder Jr
 
-**Strategy & Council**
+**Strategy & Intelligence Division**
 
 - **[Counsel](counsel.md)** — Chief Strategy Officer
   - **[Atlas](atlas.md)** — Macro/Geo Dept Head Sr
   - **[Garrison](garrison.md)** — Political Dept Head Sr
 
-**Markets**
+**Markets Division**
 
 - **[Soros](soros.md)** — Chief Markets Officer
   - **[Gaia](gaia.md)** — Environmental Dept Head Sr
 
-**Technology**
+**Operations Division**
 
 - **[Forge](forge.md)** — Chief Technology Officer
 
-**Internal Audit**
+**Audit Division**
 
 - **[Auditor](auditor.md)** — Chief Audit Officer — Internal Audit
 
-**External Audit**
+**Independent Review**
 
 - **[External Auditor](external_auditor.md)** — External Chief Audit Officer
 
