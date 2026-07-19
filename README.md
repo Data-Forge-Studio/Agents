@@ -17,6 +17,7 @@ divisions, each led by a C-level agent:
 
 - **[Summit](summit.md)** — Chief Investment Officer
   - **[Strategist](strategist.md)** — Playbook Builder Jr
+  - **[Gaia](gaia.md)** — Environmental Dept Head Sr
 
 **Strategy & Intelligence Division**
 
@@ -27,7 +28,6 @@ divisions, each led by a C-level agent:
 **Markets Division**
 
 - **[Soros](soros.md)** — Chief Markets Officer
-  - **[Gaia](gaia.md)** — Environmental Dept Head Sr
 
 **Operations Division**
 
