@@ -12,6 +12,6 @@ The analyst's approach prioritizes disciplined analysis and strategic clarity: i
 
 ## Leadership
 
-Manages a team of 1.
+Manages a team of 8.
 
 131 days of experience.

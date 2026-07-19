@@ -12,6 +12,6 @@ As Council Chair, Counsel represents the strategic voice within the system, advo
 
 ## Leadership
 
-Manages a team of 4.
+Manages a team of 2.
 
 48 days of experience.
