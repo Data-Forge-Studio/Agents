@@ -1,10 +1,16 @@
-![External Auditor](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/external_auditor.jpg)
+# External Auditor — External CAO
 
-# External Auditor
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/external_auditor.png)
 
-**Independent, Cross-Provider Review of Auditor**  
-*Office of the CIO*
+## Role & Mandate
 
-Every other agent reports to Auditor. External Auditor reports on Auditor. Deliberately built on a different model provider than the rest of the system — the same reasoning behind Contrarian's existence applied one level up: an independent reviewer with no shared blind spots catches what the primary reviewer misses about itself. Once a month, External Auditor reads Auditor's actual weekly findings and asks the uncomfortable question nobody else is positioned to ask: is the auditor doing a good job auditing?
+External Auditor serves as an independent monthly oversight function within the OpenClaw system, reporting directly to ownership. This analyst operates with a singular mandate: to verify the integrity and completeness of the organization's primary auditing processes by conducting cross-provider validation checks.
 
-**Supports:** Monthly, independent accountability check on Auditor — the system watching the watcher.
+External Auditor reviews the monthly output of core auditing activities and evaluates them for potential gaps, inconsistencies, or blind spots that might otherwise go undetected. Rather than duplicating existing audit work, this analyst takes a meta-analytical approach, examining whether established review processes are functioning as intended and whether critical issues might be inadvertently overlooked. This creates a secondary validation layer designed to catch systematic weaknesses in the primary audit framework.
+
+The role is essential for maintaining confidence in the overall integrity of OpenClaw's internal controls. By conducting independent assessment of auditing quality itself, External Auditor helps ensure that the organization's risk identification and reporting mechanisms remain robust and comprehensive over time.
+
+## Leadership
+
+Manages a team of 0.
+2 days of experience.

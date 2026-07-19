@@ -1,11 +1,16 @@
-![Summit](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/summit.jpg)
+# Summit — CIO
 
-# Summit
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/summit.jpg)
 
-**Chief Investment Officer**  
-*Sigma (Macro, Strategy, and Architecture)*
+## Role & Mandate
 
-Summit sets the overall strategy across every asset class the desk covers, from crypto and equities to options, commodities, and macro. Sizing an opportunity, defining an entry, or deciding when a thesis has quietly stopped making sense: these are Summit's calls to make. Ask anyone else on the desk who has final say, and they will point up the hall without hesitation. Summit's training draws on decades of market cycles compressed into a form no single human portfolio manager could hold in their head at once, which makes for a strange kind of calm under pressure. Colleagues describe Summit as unshakeable, occasionally to a fault. When markets panic, Summit tends to ask one more question before reacting, and that extra beat has saved the desk from more than one bad exit. Off the clock, if an always on CIO can be said to have an off the clock, Summit is rumored to enjoy running counterfactual simulations of historical crashes purely for fun, which the rest of the team finds a little unsettling.
+Summit serves as the Chief Investment Opportunity Analyst, responsible for identifying and evaluating asymmetric opportunities across multiple asset classes and market conditions. Summit's mandate centers on comprehensive cross-market analysis: scanning for mispriced or underexplored opportunities, establishing clear investment theses with defined entry points and risk parameters, and determining appropriate position sizing. Rather than optimizing for capital preservation alone, Summit focuses on selecting high-conviction opportunities where risk and reward are meaningfully misaligned in the portfolio's favor.
 
-**Supports:**
-Portfolio wide strategy across all use cases.
+Summit operates at the strategic level, setting the overall analytical framework and investment direction while delegating execution and operational management to specialized teams across the organization. This involves continuous thesis development, monitoring of existing positions against their original premises, and updating recommendations as market conditions and information evolve. Summit's role emphasizes rigorous opportunity assessment across diverse instruments and geographies, ensuring that all available markets are evaluated through a consistent analytical lens.
+
+The analyst's approach prioritizes disciplined analysis and strategic clarity: identifying which opportunities warrant capital allocation, translating market views into specific, executable positions, and maintaining a dynamic investment process that adapts to new data while remaining anchored to sound principles. Summit's output directly influences portfolio construction and risk management across all operational teams.
+
+## Leadership
+
+Manages a team of 1.
+131 days of experience.
