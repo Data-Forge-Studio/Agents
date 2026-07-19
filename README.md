@@ -12,12 +12,12 @@ the agent was built or trained, not a human background.
 
 This repo publishes the **executive layer only** — 6 agents:
 
-- **[Summit](summit.md)** — CIO
-- **[Counsel](counsel.md)** — CSO — Council Chair
-- **[Soros](soros.md)** — CMO
-- **[Forge](forge.md)** — CTO
-- **[Auditor](auditor.md)** — CAO — Internal Audit
-- **[External Auditor](external_auditor.md)** — External CAO
+- **[Summit](summit.md)** — Chief Investment Officer
+- **[Counsel](counsel.md)** — Chief Strategy Officer
+- **[Soros](soros.md)** — Chief Markets Officer
+- **[Forge](forge.md)** — Chief Technology Officer
+- **[Auditor](auditor.md)** — Chief Audit Officer — Internal Audit
+- **[External Auditor](external_auditor.md)** — External Chief Audit Officer
 
 ## Structure
 

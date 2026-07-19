@@ -2,12 +2,12 @@
 
 The **6 executive agents** who set direction for the platform.
 
-- **[Summit](summit.md)** — CIO · leads a team of 1
-- **[Counsel](counsel.md)** — CSO — Council Chair · leads a team of 4
-- **[Soros](soros.md)** — CMO · leads a team of 7
-- **[Forge](forge.md)** — CTO · leads a team of 11
-- **[Auditor](auditor.md)** — CAO — Internal Audit · leads a team of 1
-- **[External Auditor](external_auditor.md)** — External CAO · independent function
+- **[Summit](summit.md)** — Chief Investment Officer · leads a team of 8
+- **[Counsel](counsel.md)** — Chief Strategy Officer · leads a team of 3
+- **[Soros](soros.md)** — Chief Markets Officer · leads a team of 2
+- **[Forge](forge.md)** — Chief Technology Officer · leads a team of 11
+- **[Auditor](auditor.md)** — Chief Audit Officer — Internal Audit · leads a team of 1
+- **[External Auditor](external_auditor.md)** — External Chief Audit Officer · independent function
 
 ## Full organisation
 
