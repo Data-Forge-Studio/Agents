@@ -15,4 +15,4 @@ In serving as markets officer, Soros maintains focus on the big picture: underst
 
 Manages a team of 1.
 
-2 days of experience.
+3 days of experience.

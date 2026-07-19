@@ -15,4 +15,4 @@ As Council Chair, Counsel represents the strategic voice within the system, advo
 
 Manages a team of 2.
 
-48 days of experience.
+49 days of experience.
