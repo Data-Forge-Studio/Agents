@@ -1,4 +1,4 @@
-# OpenClaw Org Chart
+# DataForgeStudio.xyz Org Chart
 
 **43 agents** across 6 departments.
 

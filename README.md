@@ -1,6 +1,6 @@
 # Agents
 
-A directory of the analysts, researchers, and specialists behind the OpenClaw trading intelligence platform.
+A directory of the analysts, researchers, and specialists behind the DataForgeStudio.xyz trading intelligence platform.
 
 Every file in this repo is a short profile for one agent: what it does, who it works alongside, and which use cases it supports. These are software agents, not people, and the bios are written that way on purpose. Where a personal detail appears, it describes how the agent was built or trained, not a human background.
 
