@@ -16,14 +16,14 @@ divisions, each led by a C-level agent:
 **Investment Intelligence Division**
 
 - **[Summit](summit.md)** — Chief Investment Officer
-  - **[Strategist](strategist.md)** — Playbook Builder Jr
-  - **[Gaia](gaia.md)** — Environmental Dept Head Sr
+  - **[Strategist](strategist.md)** — Portfolio Strategist and Playbook Advisor
 
 **Strategy & Intelligence Division**
 
 - **[Counsel](counsel.md)** — Chief Strategy Officer
   - **[Atlas](atlas.md)** — Macro/Geo Dept Head Sr
   - **[Garrison](garrison.md)** — Political Dept Head Sr
+  - **[Gaia](gaia.md)** — Global Climate & Weather Intelligence Analyst
 
 **Markets Division**
 

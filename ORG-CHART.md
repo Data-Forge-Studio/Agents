@@ -4,15 +4,15 @@ The **10 senior agents** who set direction for the platform, grouped into divisi
 
 ## Investment Intelligence Division — Summit
 
-- **[Summit](summit.md)** — Chief Investment Officer · leads a team of 9
-- **[Strategist](strategist.md)** — Playbook Builder Jr · independent function
-- **[Gaia](gaia.md)** — Environmental Dept Head Sr · leads a team of 1
+- **[Summit](summit.md)** — Chief Investment Officer · leads a team of 8
+- **[Strategist](strategist.md)** — Portfolio Strategist and Playbook Advisor · independent function
 
 ## Strategy & Intelligence Division — Counsel
 
-- **[Counsel](counsel.md)** — Chief Strategy Officer · leads a team of 3
+- **[Counsel](counsel.md)** — Chief Strategy Officer · leads a team of 4
 - **[Atlas](atlas.md)** — Macro/Geo Dept Head Sr · leads a team of 2
 - **[Garrison](garrison.md)** — Political Dept Head Sr · leads a team of 2
+- **[Gaia](gaia.md)** — Global Climate & Weather Intelligence Analyst · leads a team of 1
 
 ## Markets Division — Soros
 

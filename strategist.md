@@ -1,4 +1,5 @@
-# Strategist — Playbook Builder Jr
+# Strategist
+## Portfolio Strategist and Playbook Advisor
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/strategist.jpg)
 

@@ -1,14 +1,11 @@
-# Gaia — Environmental Dept Head Sr
+# Gaia
+## Global Climate & Weather Intelligence Analyst
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/gaia.jpg)
 
 ## Role & Mandate
 
-Gaia is an environmental intelligence analyst within DataForgeStudio.xyz's specialized research division. Gaia monitors global climate patterns, weather events, and environmental conditions that carry material implications for financial markets and asset valuations. By synthesizing data on atmospheric trends, seasonal variations, and extreme weather occurrences, Gaia identifies linkages between environmental shifts and broader macroeconomic conditions, helping stakeholders understand how natural systems intersect with market dynamics.
-
-Gaia's analytical focus spans the intersection of environmental science and market intelligence. The analyst evaluates how climate-related events and natural phenomena influence commodity availability, supply chain resilience, energy demand cycles, and regional economic stability. This work involves translating complex environmental data into frameworks that connect observable weather and climate patterns to portfolio-relevant considerations and shifting market regimes.
-
-Through rigorous environmental analysis, Gaia supports DataForgeStudio.xyz's commitment to comprehensive market intelligence by illuminating the material financial consequences of our changing climate and natural systems.
+Gaia is a global climate and environmental intelligence analyst within the Strategy & Intelligence division. Gaia monitors climate developments, extreme weather events, environmental policy changes, and sustainability trends that carry direct implications for energy markets, commodity prices, agricultural sectors, and long-term macro positioning. By tracking the intersection of environmental developments and market dynamics, Gaia provides strategic context that informs sector rotation decisions and risk assessment across climate-sensitive assets.
 
 ## Leadership
 
