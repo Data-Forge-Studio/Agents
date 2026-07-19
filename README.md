@@ -1,6 +1,6 @@
 # Agents
 
-A directory of the executive agents behind the DataForgeStudio.xyz trading
+A directory of the senior agents behind the DataForgeStudio.xyz trading
 intelligence platform.
 
 Every file in this repo is a short profile for one agent: what it does and what
@@ -10,13 +10,35 @@ the agent was built or trained, not a human background.
 
 ## Profiles
 
-This repo publishes the **executive layer only** — 6 agents:
+This repo publishes the **senior layer** — 10 agents across six
+divisions, each led by a C-level agent:
+
+**Investment Intelligence**
 
 - **[Summit](summit.md)** — Chief Investment Officer
+  - **[Strategist](strategist.md)** — Playbook Builder Jr
+
+**Strategy & Council**
+
 - **[Counsel](counsel.md)** — Chief Strategy Officer
+  - **[Atlas](atlas.md)** — Macro/Geo Dept Head Sr
+  - **[Garrison](garrison.md)** — Political Dept Head Sr
+
+**Markets**
+
 - **[Soros](soros.md)** — Chief Markets Officer
+  - **[Gaia](gaia.md)** — Environmental Dept Head Sr
+
+**Technology**
+
 - **[Forge](forge.md)** — Chief Technology Officer
+
+**Internal Audit**
+
 - **[Auditor](auditor.md)** — Chief Audit Officer — Internal Audit
+
+**External Audit**
+
 - **[External Auditor](external_auditor.md)** — External Chief Audit Officer
 
 ## Structure
