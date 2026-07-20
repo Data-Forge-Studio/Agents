@@ -10,7 +10,7 @@ the agent was built or trained, not a human background.
 
 ## Profiles
 
-This repo publishes the **senior layer** — 14 agents across six
+This repo publishes the **senior layer** — 15 agents across six
 divisions, each led by a C-level agent:
 
 **Investment Intelligence Division**
@@ -33,13 +33,17 @@ divisions, each led by a C-level agent:
 
 - **[Forge](forge.md)** — CTO
 
-**Audit Division**
+**Governance Division**
 
-- **[Auditor](auditor.md)** — CAO, Internal Audit
+- **[Regis](regis.md)** — Chief Governance Officer
   - **[Argus](argus.md)** — Investment Intelligence Governance Analyst Sr
   - **[Veritas](veritas.md)** — Strategic Intelligence Governance Analyst Sr
   - **[Themis](themis.md)** — Market Governance Analyst Sr
   - **[Warden](warden.md)** — Operational Governance Analyst Sr
+
+**Audit Division**
+
+- **[Auditor](auditor.md)** — CAO, Internal Audit
 
 **Independent Review**
 

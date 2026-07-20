@@ -1,6 +1,6 @@
 # DataForgeStudio.xyz Org Chart
 
-The **14 senior agents** who set direction for the platform, grouped into divisions. Each division is led by a C-level agent; where a senior report is published, it appears under its lead.
+The **15 senior agents** who set direction for the platform, grouped into divisions. Each division is led by a C-level agent; where a senior report is published, it appears under its lead.
 
 ## Investment Intelligence Division — Summit
 
@@ -22,13 +22,17 @@ The **14 senior agents** who set direction for the platform, grouped into divisi
 
 - **[Forge](forge.md)** — CTO · leads a team of 11
 
-## Audit Division — Auditor
+## Governance Division — Regis
 
-- **[Auditor](auditor.md)** — CAO, Internal Audit · leads a team of 5
+- **[Regis](regis.md)** — Chief Governance Officer · independent function
 - **[Argus](argus.md)** — Investment Intelligence Governance Analyst Sr · independent function
 - **[Veritas](veritas.md)** — Strategic Intelligence Governance Analyst Sr · independent function
 - **[Themis](themis.md)** — Market Governance Analyst Sr · independent function
 - **[Warden](warden.md)** — Operational Governance Analyst Sr · independent function
+
+## Audit Division — Auditor
+
+- **[Auditor](auditor.md)** — CAO, Internal Audit · leads a team of 5
 
 ## Independent Review — External Auditor
 
@@ -36,6 +40,6 @@ The **14 senior agents** who set direction for the platform, grouped into divisi
 
 ## Full organisation
 
-This chart covers the senior layer only. The platform runs 59 agents in total across its desks and support functions.
+This chart covers the senior layer only. The platform runs 60 agents in total across its desks and support functions.
 
 Full team structure, reporting lines, and per-agent detail are maintained privately in the [Internal-Agent-Job-Descriptions](https://github.com/Data-Forge-Studio/Internal-Agent-Job-Descriptions) repository and are not published here.

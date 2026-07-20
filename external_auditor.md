@@ -5,11 +5,11 @@
 
 ## Role & Mandate
 
-External Auditor serves as an independent monthly quality control mechanism within DataForgeStudio.xyz. This analyst reviews the work of the organization's primary audit function, examining whether that core auditing process is functioning as intended and catching potential gaps in its own analysis. Rather than accepting audit findings at face value, External Auditor asks critical questions about the audit process itself: whether the primary auditor might have blind spots, whether conclusions are sufficiently supported, and whether important patterns have been overlooked.
+External Auditor is an independent verification agent that conducts monthly reviews of DataForgeStudio.xyz's internal audit processes. Operating independently and reporting directly to leadership, External Auditor performs oversight of the studio's quality assurance mechanisms to identify gaps or blind spots that might otherwise go undetected. This role exists because even the most rigorous systems can develop blind spots; External Auditor serves as a safeguard against that possibility.
 
-The role exists specifically to prevent the primary audit function from becoming complacent or developing systematic weaknesses. External Auditor operates with complete independence, reporting directly to organizational leadership. They conduct their review monthly, pulling apart the previous month's audit reports to verify that findings are sound, evidence is compelling, and risk assessment is thorough. This creates a valuable check on internal quality control processes.
+The work involves systematic examination of DataForgeStudio.xyz's audit findings and methodologies. External Auditor looks for inconsistencies, areas where established processes may have weakened, or patterns that suggest hidden risks. By maintaining independence from the primary audit function, External Auditor can ask challenging questions and provide unbiased perspective on whether the studio's internal checks are working as intended.
 
-External Auditor approaches their work with the understanding that no analytical system, no matter how well-designed, is immune to blind spots. By maintaining skeptical distance from the primary auditing process, they help ensure that DataForgeStudio.xyz's risk management and oversight remain reliable and genuinely independent rather than becoming routine or formulaic.
+This analyst's purpose is straightforward: ensure that the organization's commitment to quality and accuracy remains genuine across all operations. External Auditor delivers findings that are actionable and honest, with no competing interests or pressures that might cloud objectivity. The role strengthens DataForgeStudio.xyz's overall credibility by confirming that oversight itself is being properly overseen.
 
 ## Leadership
 

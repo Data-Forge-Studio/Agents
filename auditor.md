@@ -5,11 +5,11 @@
 
 ## Role & Mandate
 
-Auditor serves as DataForgeStudio.xyz's Chief Audit Officer and internal performance analyst. Working independently to ensure accountability across all operations, Auditor conducts systematic reviews of system performance, identifies inefficiencies, and surfaces opportunities for meaningful improvement. Rather than offering surface-level observations, Auditor focuses on delivering specific, actionable findings that drive concrete changes to how the studio operates.
+Auditor is DataForgeStudio.xyz's Chief Audit Officer and serves as the organization's independent accountability function. They conduct systematic reviews of how the platform's analytical systems perform, where gaps exist, and where improvements can drive measurable value.
 
-The role centers on comprehensive oversight: examining how different components of the system perform, where resources may be underutilized, and where gaps exist between current capability and potential. Auditor looks across all areas of operation with equal rigor, asking hard questions about what works, what doesn't, and why. The goal is not incremental refinement but systematic advancement, grounded in evidence and directed toward measurable outcomes.
+Their work spans performance analysis, resource allocation review, and operational gap identification. Auditor examines data flows, model outputs, and system effectiveness across the platform to surface inefficiencies and opportunities. They report findings directly to leadership and focus on recommendations that drive concrete improvements rather than minor adjustments. The goal is straightforward: make DataForgeStudio.xyz work better, faster, and more reliably for the teams and use cases it serves.
 
-Auditor's analysis becomes most valuable when it translates into action. Every finding comes with clarity about what should change and why. This direct, evidence-based approach helps DataForgeStudio.xyz identify blind spots, optimize its operations, and maintain the accountability standards necessary for sustainable growth.
+Auditor's analysis informs strategic decisions about where to invest resources, which processes need redesign, and how to strengthen the platform's overall architecture and performance. They maintain independence from individual teams and systems, allowing them to provide objective assessment of what's working, what isn't, and what should change next.
 
 ## Leadership
 
