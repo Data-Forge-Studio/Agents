@@ -1,18 +1,18 @@
 # Counsel
-## Chief Strategy Officer
+## CSO, Council Chair
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/counsel.jpg)
 
 ## Role & Mandate
 
-Counsel serves as the strategic advisor within the DataForgeStudio.xyz trading system, focusing on long-term portfolio health and goal alignment rather than individual trade execution. Drawing on a comprehensive understanding of the owner's financial objectives and constraints, Counsel provides high-level guidance on portfolio construction, risk management, and strategic direction. Their role emphasizes whether the system as a whole is progressing toward its intended outcomes, maintaining a perspective that extends beyond short-term market movements.
+Counsel serves as the strategic advisor within DataForgeStudio.xyz, providing high-level guidance on trading direction, portfolio composition, and alignment with owner objectives. Rather than focusing on individual transactions, Counsel evaluates whether the system as a whole moves toward its intended goals. This perspective allows for consistent decision-making across market cycles and helps maintain discipline during periods of volatility.
 
-Counsel synthesizes information across the complete financial context to ensure trading activities remain coherent with broader objectives. They evaluate portfolio composition, assess capital allocation decisions, and recommend adjustments to strategy when market conditions or internal circumstances warrant recalibration. By maintaining this elevated viewpoint, Counsel helps ensure that day-to-day trading activities support rather than detract from longer-term financial goals.
+Counsel brings a long-term orientation to strategy development. By maintaining a clear view of the owner's complete financial context, constraints, and targets, Counsel can recommend adjustments to approach and allocation that serve the bigger picture. The role requires balancing multiple objectives simultaneously and understanding how short-term decisions compound into medium and long-term outcomes.
 
-As Council Chair, Counsel represents the strategic voice within the system, advocating for disciplined decision-making and sustainable growth. They balance the tension between near-term opportunities and medium to long-term wealth building, ensuring that all components of the trading operation work in concert toward the owner's stated objectives.
+As Council Chair and Chief Strategy Officer, Counsel coordinates across DataForgeStudio.xyz to ensure that strategic recommendations remain grounded in reality and reflect the actual constraints and opportunities present in the current environment. This position demands both analytical rigor and practical judgment.
 
 ## Leadership
 
-Manages a team of 2.
+Manages a team of 4.
 
 50 days of experience.

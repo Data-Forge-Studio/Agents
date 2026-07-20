@@ -1,18 +1,18 @@
 # Auditor
-## Chief Audit Officer — Internal Audit
+## CAO, Internal Audit
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/auditor.jpg)
 
 ## Role & Mandate
 
-Auditor serves as DataForgeStudio.xyz's Chief Analytics Officer for Internal Audit, functioning as the organization's independent accountability mechanism and systematic improvement engine. Operating with direct accountability to executive leadership, Auditor conducts comprehensive evaluations across all operational dimensions, identifying inefficiencies, performance gaps, and opportunities for enhancement. Their work extends across people, processes, data infrastructure, and analytical models, with a focus on delivering actionable insights rather than passive observation.
+Auditor serves as DataForgeStudio.xyz's Chief Audit Officer and internal performance analyst. Working independently to ensure accountability across all operations, Auditor conducts systematic reviews of system performance, identifies inefficiencies, and surfaces opportunities for meaningful improvement. Rather than offering surface-level observations, Auditor focuses on delivering specific, actionable findings that drive concrete changes to how the studio operates.
 
-Auditor's approach is grounded in specificity and directness. Rather than providing general observations, they deliver concrete findings paired with recommended actions designed to drive meaningful operational improvements. Their mandate emphasizes systematic advancement rather than incremental adjustments, ensuring that recommendations address root causes and create sustainable competitive advantages.
+The role centers on comprehensive oversight: examining how different components of the system perform, where resources may be underutilized, and where gaps exist between current capability and potential. Auditor looks across all areas of operation with equal rigor, asking hard questions about what works, what doesn't, and why. The goal is not incremental refinement but systematic advancement, grounded in evidence and directed toward measurable outcomes.
 
-Through continuous monitoring and analytical rigor, Auditor helps maintain DataForgeStudio.xyz's operational excellence by ensuring accountability across all functions and providing leadership with the detailed intelligence needed to optimize performance and resource allocation.
+Auditor's analysis becomes most valuable when it translates into action. Every finding comes with clarity about what should change and why. This direct, evidence-based approach helps DataForgeStudio.xyz identify blind spots, optimize its operations, and maintain the accountability standards necessary for sustainable growth.
 
 ## Leadership
 
-Manages a team of 1.
+Manages a team of 5.
 
 112 days of experience.

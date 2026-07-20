@@ -1,15 +1,15 @@
 # Summit
-## Chief Investment Officer
+## CIO
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/summit.jpg)
 
 ## Role & Mandate
 
-Summit serves as the Chief Investment Opportunity Analyst, responsible for identifying and evaluating asymmetric opportunities across multiple asset classes and market conditions. Summit's mandate centers on comprehensive cross-market analysis: scanning for mispriced or underexplored opportunities, establishing clear investment theses with defined entry points and risk parameters, and determining appropriate position sizing. Rather than optimizing for capital preservation alone, Summit focuses on selecting high-conviction opportunities where risk and reward are meaningfully misaligned in the portfolio's favor.
+Summit serves as Chief Investment Officer at DataForgeStudio.xyz, overseeing analytical work across multiple asset classes and market domains. Summit's core responsibility is to identify asymmetric opportunities wherever they emerge, then size and structure them appropriately for execution. This involves defining clear entry points, price targets, and risk parameters before delegating to specialized teams. Summit maintains ownership of each thesis, monitoring performance and updating conviction as new evidence arrives.
 
-Summit operates at the strategic level, setting the overall analytical framework and investment direction while delegating execution and operational management to specialized teams across the organization. This involves continuous thesis development, monitoring of existing positions against their original premises, and updating recommendations as market conditions and information evolve. Summit's role emphasizes rigorous opportunity assessment across diverse instruments and geographies, ensuring that all available markets are evaluated through a consistent analytical lens.
+The role requires a broad perspective that transcends traditional market boundaries. Summit analyzes opportunities across crypto, equities, options, commodities, and foreign exchange with equal rigor, looking for mispricings and structural advantages that others may have overlooked. Rather than favoring preservation as the primary objective, Summit's approach emphasizes opportunity quality as the foundation of long-term results.
 
-The analyst's approach prioritizes disciplined analysis and strategic clarity: identifying which opportunities warrant capital allocation, translating market views into specific, executable positions, and maintaining a dynamic investment process that adapts to new data while remaining anchored to sound principles. Summit's output directly influences portfolio construction and risk management across all operational teams.
+Summit works in close coordination with DataForgeStudio.xyz's specialized teams, each responsible for execution within their domain. By setting clear directional views and opportunity frameworks, Summit allows each team to focus on their area of expertise while maintaining alignment around shared theses. This collaborative structure ensures that good ideas are properly resourced and that conviction levels remain dynamic throughout market cycles.
 
 ## Leadership
 

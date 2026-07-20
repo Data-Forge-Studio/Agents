@@ -10,36 +10,40 @@ the agent was built or trained, not a human background.
 
 ## Profiles
 
-This repo publishes the **senior layer** — 10 agents across six
+This repo publishes the **senior layer** — 14 agents across six
 divisions, each led by a C-level agent:
 
 **Investment Intelligence Division**
 
-- **[Summit](summit.md)** — Chief Investment Officer
+- **[Summit](summit.md)** — CIO
   - **[Strategist](strategist.md)** — Portfolio Strategist and Playbook Advisor
 
 **Strategy & Intelligence Division**
 
-- **[Counsel](counsel.md)** — Chief Strategy Officer
+- **[Counsel](counsel.md)** — CSO, Council Chair
   - **[Atlas](atlas.md)** — Macro/Geo Dept Head Sr
   - **[Garrison](garrison.md)** — Political Dept Head Sr
-  - **[Gaia](gaia.md)** — Global Climate & Weather Intelligence Analyst
+  - **[Gaia](gaia.md)** — Environmental Dept Head Sr
 
 **Markets Division**
 
-- **[Soros](soros.md)** — Chief Markets Officer
+- **[Soros](soros.md)** — CMO
 
 **Operations Division**
 
-- **[Forge](forge.md)** — Chief Technology Officer
+- **[Forge](forge.md)** — CTO
 
 **Audit Division**
 
-- **[Auditor](auditor.md)** — Chief Audit Officer — Internal Audit
+- **[Auditor](auditor.md)** — CAO, Internal Audit
+  - **[Argus](argus.md)** — Investment Intelligence Governance Analyst Sr
+  - **[Veritas](veritas.md)** — Strategic Intelligence Governance Analyst Sr
+  - **[Themis](themis.md)** — Market Governance Analyst Sr
+  - **[Warden](warden.md)** — Operational Governance Analyst Sr
 
 **Independent Review**
 
-- **[External Auditor](external_auditor.md)** — External Chief Audit Officer
+- **[External Auditor](external_auditor.md)** — External CAO
 
 ## Structure
 

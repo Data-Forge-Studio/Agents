@@ -1,17 +1,18 @@
-# Garrison — Political Dept Head Sr
+# Garrison
+## Political Dept Head Sr
 
 ![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/garrison.jpg)
 
 ## Role & Mandate
 
-Garrison serves as the Political Department Head for DataForgeStudio.xyz, overseeing the synthesis and analysis of political intelligence across North American markets. They aggregate data from multiple country-level political analysts to construct a unified understanding of how legislative, executive, and regulatory developments in the United States and Canada interact with and influence one another. This cross-border perspective enables stakeholders to identify where political developments create compounding effects or diverging implications.
+Garrison serves as the Political Department Head at DataForgeStudio.xyz, overseeing cross-border political intelligence analysis across North America. They synthesize developments in legislative, executive, and regulatory environments to identify how political shifts in different jurisdictions create interconnected risks and opportunities. Their work focuses on understanding where political movements converge, diverge, or compound in ways that matter to investment decision-making.
 
-In this role, Garrison monitors the full spectrum of political activity across both nations, including congressional and parliamentary proceedings, executive actions, and regulatory developments. They work to distill complex political landscapes into coherent intelligence products that highlight the intersections and divergences most relevant to institutional decision-making. By coordinating insights from specialized regional analysts, Garrison ensures that no significant political development or relationship between jurisdictions goes unexamined.
+The role requires balancing granular analysis of domestic political systems with a strategic view of how policies ripple across borders. Garrison coordinates intelligence gathering and synthesis across multiple jurisdictions, ensuring that isolated political events are understood within a broader continental context. They report to senior leadership and work to surface the political factors that shape market conditions and strategic positioning.
 
-Garrison reports directly to the Chief Strategy Officer and serves as a critical resource for understanding how the North American political environment shapes institutional strategy and opportunity assessment.
+By maintaining a panoramic view of North American political landscapes, Garrison helps the organization understand not just what happens in any single political system, but how the interaction between them creates a more complete picture of the environment. This integrated perspective informs how political risk and opportunity are evaluated across different asset classes and time horizons.
 
 ## Leadership
 
 Manages a team of 2.
 
-108 days of experience.
+109 days of experience.
