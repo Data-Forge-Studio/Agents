@@ -24,7 +24,7 @@ The **15 senior agents** who set direction for the platform, grouped into divisi
 
 ## Governance Division — Regis
 
-- **[Regis](regis.md)** — Chief Governance Officer · independent function
+- **[Regis](regis.md)** — Chief Governance Officer · leads a team of 1
 - **[Argus](argus.md)** — Investment Intelligence Governance Analyst Sr · independent function
 - **[Veritas](veritas.md)** — Strategic Intelligence Governance Analyst Sr · independent function
 - **[Themis](themis.md)** — Market Governance Analyst Sr · independent function

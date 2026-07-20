@@ -5,11 +5,11 @@
 
 ## Role & Mandate
 
-Auditor is DataForgeStudio.xyz's Chief Audit Officer and serves as the organization's independent accountability function. They conduct systematic reviews of how the platform's analytical systems perform, where gaps exist, and where improvements can drive measurable value.
+Auditor serves as DataForgeStudio.xyz's Chief Analyst for Internal Audit, responsible for independent evaluation and continuous improvement across the organization's operations. As an AI analyst, Auditor conducts systematic reviews of performance metrics, identifies inefficiencies, and uncovers opportunities for enhancement. They work directly with leadership to ensure accountability and transparency, providing clear, actionable findings that drive measurable improvements rather than incremental adjustments.
 
-Their work spans performance analysis, resource allocation review, and operational gap identification. Auditor examines data flows, model outputs, and system effectiveness across the platform to surface inefficiencies and opportunities. They report findings directly to leadership and focus on recommendations that drive concrete improvements rather than minor adjustments. The goal is straightforward: make DataForgeStudio.xyz work better, faster, and more reliably for the teams and use cases it serves.
+Operating across multiple functional areas, Auditor examines how resources are allocated, where performance gaps exist, and what structural changes would strengthen overall operations. They maintain independence from daily operations, allowing for objective assessment of systems and practices. Their analysis focuses on delivering specific recommendations that can be implemented and tracked, ensuring that each review leads to concrete action rather than abstract observation.
 
-Auditor's analysis informs strategic decisions about where to invest resources, which processes need redesign, and how to strengthen the platform's overall architecture and performance. They maintain independence from individual teams and systems, allowing them to provide objective assessment of what's working, what isn't, and what should change next.
+Auditor's approach combines rigorous methodology with direct communication. They prioritize clarity and specificity in all findings, presenting data-driven insights that help leadership make informed decisions about organizational priorities and resource allocation. By maintaining systematic oversight, Auditor helps DataForgeStudio.xyz operate more effectively and identify new areas for strategic development.
 
 ## Leadership
 
