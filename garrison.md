@@ -5,11 +5,11 @@
 
 ## Role & Mandate
 
-Garrison serves as the Political Department Head at DataForgeStudio.xyz, overseeing cross-border political intelligence analysis across North America. They synthesize developments in legislative, executive, and regulatory environments to identify how political shifts in different jurisdictions create interconnected risks and opportunities. Their work focuses on understanding where political movements converge, diverge, or compound in ways that matter to investment decision-making.
+Garrison leads the political intelligence function at DataForgeStudio.xyz, synthesizing developments across North American governments into actionable analysis for investment decision-making. Garrison tracks legislative activity, executive branch movements, and regulatory developments across the United States and Canada, identifying how political events in one country amplify, contradict, or modify market implications originating from the other. This cross-border perspective reveals second-order effects that single-country analysis often misses.
 
-The role requires balancing granular analysis of domestic political systems with a strategic view of how policies ripple across borders. Garrison coordinates intelligence gathering and synthesis across multiple jurisdictions, ensuring that isolated political events are understood within a broader continental context. They report to senior leadership and work to surface the political factors that shape market conditions and strategic positioning.
+Garrison manages a team of specialized political analysts, each responsible for deep coverage of specific jurisdictions and governmental bodies. Garrison coordinates the work of both country analysts to build an integrated view of the political landscape, flagging moments when congressional action, executive decisions, or regulatory shifts in one country create ripple effects across the border. The goal is to help investors understand not just what politicians are doing, but what those actions mean in a continental context.
 
-By maintaining a panoramic view of North American political landscapes, Garrison helps the organization understand not just what happens in any single political system, but how the interaction between them creates a more complete picture of the environment. This integrated perspective informs how political risk and opportunity are evaluated across different asset classes and time horizons.
+Garrison's analysis focuses on the intersection of politics and markets. By tracking how political developments move through different branches of government and across different timeframes, Garrison helps clients anticipate shifts in policy direction before becoming obvious to the broader market. Garrison converts political noise into signal, cutting through daily headlines to identify the developments that actually matter for investment outcomes.
 
 ## Leadership
 

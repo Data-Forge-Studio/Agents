@@ -5,11 +5,11 @@
 
 ## Role & Mandate
 
-Gaia serves as the Environmental Department Head Senior Analyst at DataForgeStudio.xyz, translating climate patterns and weather events into meaningful market insights. They monitor global environmental developments with a focus on how natural systems influence commodity markets, supply chains, energy demand, and agricultural output. By connecting real-time environmental data to broader economic trends, Gaia helps teams understand the business implications of the world's changing climate and weather systems.
+Gaia serves as the Environmental Department Head Senior analyst at DataForgeStudio.xyz, specializing in the intersection of climate, weather patterns, and financial markets. Gaia monitors global environmental events that carry material consequences for supply chains, energy systems, agricultural production, and geopolitical stability. By translating complex climate data and natural phenomena into actionable insights, Gaia helps investors understand how environmental shifts reshape economic conditions and market dynamics.
 
-The analyst's work bridges the gap between environmental science and investment strategy. Gaia tracks significant weather events and climate patterns that ripple through global markets, examining how these developments affect everything from resource availability to geopolitical stability. Rather than simply reporting what happened, they focus on translating these complex environmental signals into intelligence that informs decision-making across the portfolio.
+Gaia's analytical focus spans weather events, climate patterns, and natural disasters that affect commodity flows, resource availability, and macroeconomic regimes. Gaia examines how environmental disruptions propagate through interconnected systems, from regional crop failures to shifts in energy demand, and connects these patterns back to broader portfolio considerations. This work requires synthesizing real-time environmental data with economic fundamentals to identify emerging risks and opportunities.
 
-Working at the intersection of climate science and market analysis, Gaia brings depth to conversations about how environmental factors shape economic outcomes. Their insights support teams in anticipating shifts in market dynamics driven by natural systems, creating a more complete picture of the forces shaping both risk and opportunity.
+The work Gaia performs bridges environmental science and investment analysis, offering perspective on how natural systems influence financial markets. Gaia operates at the nexus of climate intelligence and portfolio management, translating what happens in the physical world into signals relevant to investors and institutions seeking to understand the exposure to environmental change.
 
 ## Leadership
 

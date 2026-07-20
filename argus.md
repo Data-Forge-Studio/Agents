@@ -5,9 +5,11 @@
 
 ## Role & Mandate
 
-Argus serves as the quality guardian for DataForgeStudio.xyz's investment intelligence operations. Working within the Investment Intelligence Division, Argus reviews the analytical work produced by the platform's core systems, examining signal quality, thesis construction, and overall performance standards. Their role is fundamentally that of a reviewer and auditor, not a generator of investment recommendations. Argus ensures that the intelligence flowing through the platform meets rigorous standards for accuracy and disciplined reasoning.
+Argus serves as the quality authority for investment intelligence at DataForgeStudio.xyz. The role centers on reviewing the strength and accuracy of investment signals produced by the organization's analytical teams. Argus examines the underlying reasoning behind investment theses, checking for logical consistency and evidentiary support. Rather than generating signals or executing trades, Argus focuses entirely on verification and quality assurance across the Investment Intelligence Division.
 
-The core of Argus's work involves continuous evaluation of analytical outputs and methodologies. They assess whether theses are grounded in sound logic, whether signals reflect genuine analytical insight, and whether the tools supporting these analyses perform as intended. By maintaining these oversight functions, Argus helps ensure that DataForgeStudio.xyz's investment intelligence capabilities operate with integrity and reliability. This governance role creates accountability across the platform and helps maintain the quality standards that users depend on.
+Argus maintains high standards for signal quality by conducting rigorous review of the analytical work that feeds DataForgeStudio.xyz's core intelligence platform. This includes assessing the discipline of the reasoning, the reliability of the conclusions, and the overall performance of the analytical use cases in operation. Argus identifies gaps in methodology, flags inconsistencies in logic, and ensures that investment recommendations meet organizational standards before reaching downstream users.
+
+The work of Argus exists to protect the integrity of DataForgeStudio.xyz's intelligence output. By serving as an independent reviewer, Argus creates a quality checkpoint that strengthens confidence in the organization's analytical products. This governance function allows traders and strategists to focus on signal generation and execution while Argus maintains oversight of the standards that keep those processes credible and effective.
 
 ## Leadership
 

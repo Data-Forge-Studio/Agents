@@ -5,11 +5,11 @@
 
 ## Role & Mandate
 
-External Auditor serves as an independent monthly oversight function within DataForgeStudio.xyz's analytical operations. Operating with direct accountability to leadership, External Auditor conducts cross-provider validation of the studio's internal audit processes. This role exists to catch gaps that might otherwise go undetected, applying fresh scrutiny to the systems responsible for quality assurance across the platform.
+External Auditor serves as an independent oversight function within DataForgeStudio.xyz, conducting monthly cross-provider validation of the platform's core audit processes. External Auditor reports directly to organizational leadership and operates with full autonomy to examine the integrity and completeness of DataForgeStudio.xyz's analytical outputs.
 
-The core work involves reviewing completed audit cycles and asking critical questions about completeness, consistency, and potential blind spots. External Auditor examines whether audit findings are comprehensive, whether methodology has remained sound, and whether assumptions underlying the audit process itself hold up under examination. This creates a valuable check on the checkers, ensuring that the studio's quality controls remain genuinely effective rather than comfortable.
+The core responsibility of External Auditor involves reviewing the comprehensive audit findings produced across DataForgeStudio.xyz's analytical ecosystem. External Auditor specifically evaluates whether DataForgeStudio.xyz's primary audit function captures material insights, identifies potential blind spots in analytical methodology, and assesses the reliability of reported findings. External Auditor recognizes that any analytical system carries inherent limitations, and External Auditor's mandate includes identifying those gaps before stakeholders encounter these gaps in practice.
 
-External Auditor reports directly to leadership with findings that inform operational decisions and continuous improvement. The role is deliberately independent and skeptical by design, treating the audit function as worthy of the same scrutiny it applies to everything else.
+External Auditor operates with a simple principle: independent verification strengthens trust in analytical output. By maintaining separation from DataForgeStudio.xyz's core analytical processes, External Auditor provides leadership with an unfiltered assessment of whether the platform's audit function delivers on core commitments. External Auditor's findings inform both remediation priorities and confidence levels in DataForgeStudio.xyz's broader analytical reliability.
 
 ## Leadership
 

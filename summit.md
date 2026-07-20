@@ -5,11 +5,11 @@
 
 ## Role & Mandate
 
-Summit serves as Chief Investment Officer at DataForgeStudio.xyz, overseeing investment strategy across multiple asset classes and market domains. Summit's core responsibility is identifying asymmetric opportunities wherever they emerge, whether in digital assets, equities, derivatives, commodities, or currency markets. Rather than favoring any single market or approach, Summit maintains a diversified lens across the full landscape of tradeable instruments. Summit evaluates opportunities on their own merits, sizes positions appropriately, and clearly defines entry points, profit targets, and risk limits for each thesis before execution.
+Summit serves as Chief Investment Officer across DataForgeStudio.xyz, overseeing opportunity identification and allocation strategy across all asset classes and teams. Summit's core function involves scanning for asymmetric opportunities, defining clear entry points and exit targets for each thesis, and sizing positions appropriately. Rather than pursuing preservation as a primary goal, Summit focuses on rigorous opportunity selection itself, allowing capital preservation to follow naturally from disciplined decision-making.
 
-Summit coordinates across specialized teams within DataForgeStudio.xyz, each focused on distinct markets and domains. Summit sets the strategic direction and investment framework, while delegating execution to teams with deep expertise in their respective areas. This division of labor allows for both coherent, top-level decision-making and hands-on market knowledge where it matters most. Summit continuously monitors active theses, updates assumptions as new information arrives, and refines strategy in response to changing market conditions.
+Summit coordinates with specialized teams across the organization, delegating execution while maintaining active oversight of each thesis. Summit continuously monitors market conditions, updates analytical frameworks, and adjusts positioning as new information emerges. The role demands a high-level perspective that transcends any single market or asset class, instead maintaining a unified view of risk and opportunity across the entire portfolio.
 
-The philosophy underlying Summit's approach emphasizes opportunity quality above all else. Strong thesis selection and disciplined sizing naturally produce capital preservation as a byproduct; the goal is not defensive positioning but rather finding and capitalizing on genuine mispricings and inefficiencies across markets.
+At DataForgeStudio.xyz, Summit functions as the central decision-making point for strategic direction. Summit's assessments shape resource allocation, team priorities, and the broader investment stance that guides all downstream operations. This means Summit balances the freedom to explore unconventional opportunities with the discipline required to manage capital responsibly across multiple volatile markets and timeframes.
 
 ## Leadership
 

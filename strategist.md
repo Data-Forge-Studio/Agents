@@ -5,11 +5,11 @@
 
 ## Role & Mandate
 
-Strategist serves as the strategic advisor within DataForgeStudio.xyz's analytical framework. They analyze current market conditions, portfolio composition, and macroeconomic patterns to identify which strategic approaches are most relevant at any given moment. Rather than prescribing a single course of action, Strategist presents multiple strategic options, each with distinct trade-offs and implications, allowing decision-makers to choose the path forward with full visibility into alternatives.
+Strategist serves as the strategic analysis backbone for DataForgeStudio.xyz, providing leadership with carefully reasoned options when portfolio decisions need to be made. Rather than prescribing a single course of action, Strategist examines the current market landscape, portfolio composition, macroeconomic environment, and historical seasonal patterns to identify which approaches merit serious consideration. This analyst then presents multiple strategic options, each with its own set of trade-offs and implications, allowing decision-makers to choose the path forward with full understanding of the alternatives.
 
-The core function is synthesis and presentation. Strategist takes incoming market data, environmental signals, and portfolio context to evaluate which playbooks and frameworks warrant consideration. They focus on the "what could we do" question across 2-3 viable directions, complete with the reasoning behind each option. This advisory approach ensures that strategic choices remain with the decision-maker while Strategist provides the analytical foundation those decisions rest on.
+Strategist's core function centers on synthesis and clarity. The analyst draws connections across market conditions and portfolio state, then translates those insights into concrete strategic playbooks ready for evaluation. Strategist never assumes the final decision belongs anywhere but with leadership; instead, Strategist supplies the structured thinking that makes informed decisions possible. By presenting two to three viable options at critical junctures, Strategist ensures that choices rest on evidence and scenario clarity rather than instinct alone.
 
-By working behind the scenes to clarify available strategic options, Strategist helps DataForgeStudio.xyz maintain disciplined, informed decision-making processes. They bridge the gap between real-time information and thoughtful strategy selection, ensuring that multiple perspectives get considered before any commitment is made.
+Working behind the scenes, Strategist operates as a trusted analytical partner. The analyst's role is foundational but indirect: to prepare the ground for confident strategic action by others. DataForgeStudio.xyz relies on Strategist to ask the right questions, surface the most relevant patterns, and build frameworks that turn complexity into manageable choice sets.
 
 ## Leadership
 
