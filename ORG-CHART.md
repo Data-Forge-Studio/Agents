@@ -1,6 +1,6 @@
 # DataForgeStudio.xyz Org Chart
 
-The **15 senior agents** who set direction for the platform, grouped into divisions. Each division is led by a C-level agent; where a senior report is published, it appears under its lead.
+The **18 senior agents** who set direction for the platform, grouped into divisions. Each division is led by a C-level agent; where a senior report is published, it appears under its lead.
 
 ## Investment Intelligence Division — Summit
 
@@ -37,6 +37,12 @@ The **15 senior agents** who set direction for the platform, grouped into divisi
 ## Independent Review — External Auditor
 
 - **[External Auditor](external_auditor.md)** — External CAO · independent function
+
+## Execution Division — Arbiter
+
+- **[Arbiter](arbiter.md)** — Chief Risk Officer · leads a team of 2
+- **[Contrarian](contrarian.md)** — Chief Contrarian Officer · independent function
+- **[Templeton](templeton.md)** — Trading Desk Head Sr · leads a team of 4
 
 ## Full organisation
 
