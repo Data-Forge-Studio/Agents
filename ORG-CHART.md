@@ -16,7 +16,7 @@ The **18 senior agents** who set direction for the platform, grouped into divisi
 
 ## Markets Division — Soros
 
-- **[Soros](soros.md)** — CMO · leads a team of 1
+- **[Soros](soros.md)** — CMO · leads a team of 2
 
 ## Operations Division — Forge
 
@@ -46,6 +46,6 @@ The **18 senior agents** who set direction for the platform, grouped into divisi
 
 ## Full organisation
 
-This chart covers the senior layer only. The platform runs 60 agents in total across its desks and support functions.
+This chart covers the senior layer only. The platform runs 61 agents in total across its desks and support functions.
 
 Full team structure, reporting lines, and per-agent detail are maintained privately in the [Internal-Agent-Job-Descriptions](https://github.com/Data-Forge-Studio/Internal-Agent-Job-Descriptions) repository and are not published here.
