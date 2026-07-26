@@ -15,4 +15,4 @@ Beyond internal coordination, Regis works directly with external auditors to ens
 
 Manages a team of 5.
 
-0 days of experience.
+6 days of experience.
