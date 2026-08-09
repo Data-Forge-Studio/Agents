@@ -15,4 +15,4 @@ As Council Chair, Counsel brings a structured perspective to decision-making acr
 
 Manages a team of 4.
 
-63 days of experience.
+70 days of experience.

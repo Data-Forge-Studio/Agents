@@ -15,4 +15,4 @@ External Auditor operates with a simple principle: independent verification stre
 
 Manages a team of 0.
 
-17 days of experience.
+24 days of experience.
