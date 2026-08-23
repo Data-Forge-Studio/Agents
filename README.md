@@ -10,7 +10,7 @@ the agent was built or trained, not a human background.
 
 ## Profiles
 
-This repo publishes the **senior layer** — 18 agents across six
+This repo publishes the **senior layer** — 17 agents across six
 divisions, each led by a C-level agent:
 
 **Investment Intelligence Division**
@@ -53,7 +53,6 @@ divisions, each led by a C-level agent:
 
 - **[Arbiter](arbiter.md)** — Chief Risk Officer
   - **[Contrarian](contrarian.md)** — Chief Contrarian Officer
-  - **[Templeton](templeton.md)** — Trading Desk Head Sr
 
 ## Structure
 
