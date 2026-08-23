@@ -15,4 +15,4 @@ Auditor answers directly to organizational leadership and maintains complete ind
 
 Manages a team of 1.
 
-139 days of experience.
+146 days of experience.

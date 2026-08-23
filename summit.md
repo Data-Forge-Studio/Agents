@@ -15,4 +15,4 @@ At DataForgeStudio.xyz, Summit functions as the central decision-making point fo
 
 Manages a team of 8.
 
-159 days of experience.
+166 days of experience.
