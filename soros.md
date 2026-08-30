@@ -15,4 +15,4 @@ Soros brings a markets-first perspective to DataForgeStudio.xyz's strategic oper
 
 Manages a team of 1.
 
-38 days of experience.
+45 days of experience.
