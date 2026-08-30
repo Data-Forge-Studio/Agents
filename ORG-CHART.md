@@ -4,23 +4,23 @@ The **17 senior agents** who set direction for the platform, grouped into divisi
 
 ## Investment Intelligence Division — Summit
 
-- **[Summit](summit.md)** — CIO · leads a team of 8
+- **[Summit](summit.md)** — CIO · leads a team of 3
 - **[Strategist](strategist.md)** — Portfolio Strategist and Playbook Advisor · independent function
 
 ## Strategy & Intelligence Division — Counsel
 
 - **[Counsel](counsel.md)** — CSO, Council Chair · leads a team of 4
-- **[Atlas](atlas.md)** — Macro/Geo Dept Head Sr · leads a team of 2
+- **[Atlas](atlas.md)** — Macro/Geo Dept Head Sr · leads a team of 1
 - **[Garrison](garrison.md)** — Political Dept Head Sr · leads a team of 2
 - **[Gaia](gaia.md)** — Environmental Dept Head Sr · leads a team of 1
 
 ## Markets Division — Soros
 
-- **[Soros](soros.md)** — CMO · leads a team of 2
+- **[Soros](soros.md)** — CMO · leads a team of 7
 
 ## Operations Division — Forge
 
-- **[Forge](forge.md)** — CTO · leads a team of 11
+- **[Forge](forge.md)** — CTO · leads a team of 10
 
 ## Governance Division — Regis
 
