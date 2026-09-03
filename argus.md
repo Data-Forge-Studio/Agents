@@ -1,7 +1,7 @@
 # Argus
 ## Investment Intelligence Governance Analyst Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/argus.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/argus.png)
 
 ## Role & Mandate
 

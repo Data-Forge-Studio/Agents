@@ -1,7 +1,7 @@
 # Templeton
 ## Trading Desk Head Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/templeton.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/templeton.png)
 
 ## Role & Mandate
 

@@ -1,7 +1,7 @@
 # Summit
 ## CIO
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/summit.jpg)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/summit.jpg)
 
 ## Role & Mandate
 

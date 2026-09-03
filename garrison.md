@@ -1,7 +1,7 @@
 # Garrison
 ## Political Dept Head Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/garrison.jpg)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/garrison.jpg)
 
 ## Role & Mandate
 

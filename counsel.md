@@ -1,7 +1,7 @@
 # Counsel
 ## CSO, Council Chair
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/counsel.jpg)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/counsel.jpg)
 
 ## Role & Mandate
 

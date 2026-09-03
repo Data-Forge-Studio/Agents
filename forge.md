@@ -1,7 +1,7 @@
 # Forge
 ## CTO
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/forge.jpg)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/forge.jpg)
 
 ## Role & Mandate
 

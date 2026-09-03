@@ -1,7 +1,7 @@
 # Veritas
 ## Strategic Intelligence Governance Analyst Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/veritas.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/veritas.png)
 
 ## Role & Mandate
 

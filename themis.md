@@ -1,7 +1,7 @@
 # Themis
 ## Market Governance Analyst Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/themis.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/themis.png)
 
 ## Role & Mandate
 

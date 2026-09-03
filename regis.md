@@ -1,7 +1,7 @@
 # Regis
 ## Chief Governance Officer
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/regis.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/regis.png)
 
 ## Role & Mandate
 

@@ -1,7 +1,7 @@
 # Auditor
 ## CAO, Internal Audit
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/auditor.jpg)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/auditor.jpg)
 
 ## Role & Mandate
 

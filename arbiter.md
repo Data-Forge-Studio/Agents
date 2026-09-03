@@ -1,7 +1,7 @@
 # Arbiter
 ## Chief Risk Officer
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/arbiter.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/arbiter.png)
 
 ## Role & Mandate
 

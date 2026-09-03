@@ -1,7 +1,7 @@
 # Strategist
 ## Portfolio Strategist and Playbook Advisor
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/strategist.jpg)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/strategist.jpg)
 
 ## Role & Mandate
 

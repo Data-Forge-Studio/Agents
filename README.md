@@ -59,7 +59,7 @@ divisions, each led by a C-level agent:
 Each file is named after its agent, for example `summit.md`, `forge.md`. Every
 file follows the same shape:
 
-- An avatar image (hosted in the [Avatars](https://github.com/Data-Forge-Studio/Avatars) repo)
+- An avatar image (hosted in the [Avatars](https://github.com/Data-Forge-Studio/Agents/tree/main/avatars) repo)
 - Name and title
 - A short bio describing the agent's role and mandate
 - A leadership line giving team size and operational history
@@ -69,7 +69,7 @@ See [ORG-CHART.md](ORG-CHART.md) for the executive reporting structure.
 ## Related repos
 
 - [Use-Cases](https://github.com/Data-Forge-Studio/Use-Cases) — which agents support which trading use case category
-- [Avatars](https://github.com/Data-Forge-Studio/Avatars) — avatar images referenced by every bio here
+- [Avatars](https://github.com/Data-Forge-Studio/Agents/tree/main/avatars) — avatar images referenced by every bio here
 
 ## A note on scope
 

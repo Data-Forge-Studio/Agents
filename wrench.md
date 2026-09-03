@@ -1,7 +1,7 @@
 # Wrench
 ## Pipeline Builder Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/wrench.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/wrench.png)
 
 ## Role & Mandate
 

@@ -1,7 +1,7 @@
 # Contrarian
 ## Chief Contrarian Officer
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/contrarian.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/contrarian.png)
 
 ## Role & Mandate
 

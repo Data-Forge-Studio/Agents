@@ -1,7 +1,7 @@
 # Axiom
 ## Architecture Knowledge Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/axiom.jpg)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/axiom.jpg)
 
 ## Role & Mandate
 

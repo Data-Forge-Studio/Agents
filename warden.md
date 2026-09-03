@@ -1,7 +1,7 @@
 # Warden
 ## Operational Governance Analyst Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/warden.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/warden.png)
 
 ## Role & Mandate
 

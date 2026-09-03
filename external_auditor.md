@@ -1,7 +1,7 @@
 # External Auditor
 ## External CAO
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/external_auditor.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/external_auditor.png)
 
 ## Role & Mandate
 

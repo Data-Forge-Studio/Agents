@@ -1,7 +1,7 @@
 # Soros
 ## CMO
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/soros.png)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/soros.png)
 
 ## Role & Mandate
 

@@ -1,7 +1,7 @@
 # Gaia
 ## Environmental Dept Head Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/gaia.jpg)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/gaia.jpg)
 
 ## Role & Mandate
 

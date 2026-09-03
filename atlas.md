@@ -1,7 +1,7 @@
 # Atlas
 ## Macro/Geo Dept Head Sr
 
-![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Avatars/main/atlas.jpg)
+![Avatar](https://raw.githubusercontent.com/Data-Forge-Studio/Agents/main/avatars/atlas.jpg)
 
 ## Role & Mandate
 
